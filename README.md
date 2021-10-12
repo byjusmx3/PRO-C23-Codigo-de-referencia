@@ -1,2 +1,2 @@
-# PRO-C23-Reference_code
-Reference code for C23
+# PRO-C23-Codigo_de_referencia
+Código de referencia para C23
